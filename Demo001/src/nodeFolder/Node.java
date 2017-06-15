@@ -1,5 +1,5 @@
 package nodeFolder;
-//�ܺú�ǿ��
+//很好很强大
 public class Node {
 	
 	private int index;
